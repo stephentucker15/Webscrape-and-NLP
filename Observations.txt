@@ -1,0 +1,7 @@
+There were a few observations I noticed when looking at the sentiment scores of these websites. First, many of the sentiment scores were 0.
+I think this has to do with the way that some of the websites worded their descriptions. While certain sites used key words like "optimize"
+or "killer", others used very non-positive or negative language, leading to scores of 0. This leads me into my next observation, which 
+relates to those key words. Several of the purposes with the highest sentiment score included a couple of highly positive words like 
+"optimize" or "innovative". Meanwhile some of the purposes with the most negative sentiment score included the word "killer". In these 
+descriptions, it is unlikely that the website actually meant to use the term in the negative way that the sentiment score is interpreting.
+It looks like "killer" was actually meant in an ironic tone, meaning positive, but the NLP tool won't pick up on that.
